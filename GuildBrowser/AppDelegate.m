@@ -7,6 +7,7 @@
     // Override point for customization after application launch.
     [self customizeAppearance];
     
+    NSLog(@"Project start!!!");
     
     return YES;
 }
